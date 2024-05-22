@@ -1,0 +1,61 @@
+h1{
+ padding: 100px 0px 100px 0px;
+ width: 100%;
+ color:#ffff00;
+ font-size : 70px;
+ background-color: #e0ffff;
+ text-align: center;
+}
+.gazou-no-oya {
+    float: left;
+    width: 33%;
+    text-align: center;
+ }
+.gazou{
+    width: 90%;
+    height:300px;
+ }
+ section{
+    clear: both;
+ }
+ #ge-mu{
+   padding: 100px 0px 100px 0px;
+   width: 100%;
+   text-align: center;
+   color:#ffffff;
+   font-size : 100px;
+   background-color: #909086;
+ }
+ #tabemono{
+   padding: 100px 0px 100px 0px;
+   width: 100%;
+   text-align: center;
+   color:#ffffff;
+   font-size : 100px;
+   background-color: #ffca1b;
+ }
+ #anime{
+   padding: 100px 0px 100px 0px;
+   width: 100%;
+   text-align: center;
+   color:#ffffff;
+   font-size : 100px;
+   background-color: #70eaff;
+ }
+ body{
+   background-color:#fffd77;
+ }
+ aside{
+  clear: both;
+  text-align: center;
+  font-size : 25px;
+  color : #6756ff;
+ }
+ nav{
+  font-size:30px;
+ }
+ footer{
+  font-size:35px;
+  color : #53ffeb;
+  text-align : center;
+ }
